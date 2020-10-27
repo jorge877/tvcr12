@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-0, canal 8
+https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_2000.m3u8?uid=GaHNDDJ2pCjAPajSauzXC4HeaGx6tjfv&sid=vJDJSn8PGFRyDCYRUKn8XzCMeXAZWSaI&pid=mSEnYyuwQr0tR5wGi51QYtB10iIs44YS&ref=https%3A%2F%2Fwww.multimedios.cr%2F&dnt=true&es=us-b4-p-e-az1.cdn.mdstrm.com&ote=1603848917869&ot=sZYROL9SmZglsJxOI2azYg&proto=https&pz=us
+
+#EXTINF:-1, canal 7
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO51HQwh3UfwPNltEZVggrjUE)/dm/3/x29e3wg/s/live-4.m3u8
+
+#EXTINF:-2 canal 6
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzODQ5MjcxLCJzZXNzaW9uIjoiMjAxLjIwMi4xNC4zIiwid2hpdGVsaXN0IjpbIjIwMS4yMDIuMTQuMyJdfSwic2lnbmF0dXJlIjoiMGJmYzEwZTM0MzZiNjMxMjRlZGE0NmYzMzQ2ZDcwNjViMWYwNDM4MyJ9
+
+#EXTINF:-3 canal 11
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzODQ5MzUxLCJzZXNzaW9uIjoiMjAxLjIwMi4xNC4zIiwid2hpdGVsaXN0IjpbIjIwMS4yMDIuMTQuMyJdfSwic2lnbmF0dXJlIjoiZTY1ZmQ4MTQwODAwZTIxYzAxMWMwMjdkY2IzZDAyNDkzNzE5N2FlMiJ9
+
+#EXTINF:-4 canal 4
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzODQ5NDcwLCJzZXNzaW9uIjoiMjAxLjIwMi4xNC4zIiwid2hpdGVsaXN0IjpbIjIwMS4yMDIuMTQuMyJdfSwic2lnbmF0dXJlIjoiYTFkNjcxYzE2ODhiNWI4NTkyYTlkYTdmZDU4MzMxN2ZlZDJkMGU1OSJ9
+
+#EXTINF:-5 canal 13
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbYnKh1_9Jy3uLXhJOuia0M)/dm/3/x7vh8g3/d/live-3.m3u8
